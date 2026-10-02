@@ -1,0 +1,450 @@
+Transaction_ID,Date,Department,Employee_ID,Vendor,Amount,Payment_Method
+TXN1001,2026-06-17,IT,EMP105,Nexus Cyber Solutions,14450.0,Bank Transfer
+TXN1002,2026-07-13,IT,EMP108,ABC Supplies,2900.0,Wire Transfer
+TXN1003,2026-06-08,Finance,EMP102,Nexus Cyber Solutions,32050.0,Credit Card
+TXN1004,2026-04-29,Procurement,EMP115,Global Logistics Corp,34300.0,Credit Card
+TXN1005,2026-04-01,IT,EMP105,Delta Services,6045.67,Wire Transfer
+TXN1006,2026-03-13,Finance,EMP104,Horizon Media Works,7366.83,Bank Transfer
+TXN1007,2026-05-26,Procurement,EMP117,Zenith Travel Partners,43100.0,Credit Card
+TXN1008,2026-01-22,Finance,EMP102,OfficeMart Solutions,47805.41,Bank Transfer
+TXN1009,2026-03-17,Legal,EMP125,CloudCore Systems,9150.0,ACH
+TXN1010,2026-07-03,IT,EMP106,Horizon Media Works,35750.0,Check
+TXN1011,2026-06-17,Marketing,EMP114,CloudCore Systems,41114.04,Credit Card
+TXN1012,2026-08-03,Finance,EMP103,Delta Services,14100.0,Wire Transfer
+TXN1013,2026-08-17,Human Resources,EMP118,QuickCourier Express,24963.87,Check
+TXN1014,2026-02-10,Procurement,EMP115,Stellar Consulting,36500.0,Wire Transfer
+TXN1015,2026-04-24,Sales,EMP121,Stellar Consulting,48350.0,Check
+TXN1016,2026-01-28,Finance,EMP101,Global Logistics Corp,30989.96,Check
+TXN1017,2026-01-21,Sales,EMP121,Zenith Travel Partners,48300.0,Wire Transfer
+TXN1018,2026-08-13,Finance,EMP101,QuickCourier Express,43085.06,ACH
+TXN1019,2026-02-02,Procurement,EMP116,Global Logistics Corp,22825.01,ACH
+TXN1020,2026-05-13,Operations,EMP111,Apex Technology,42400.0,Wire Transfer
+TXN1021,2026-06-09,Marketing,EMP112,CloudCore Systems,37350.0,Wire Transfer
+TXN1022,2026-01-05,Human Resources,EMP119,ABC Supplies,6750.0,ACH
+TXN1023,2026-01-19,Marketing,EMP114,Apex Technology,5550.0,Bank Transfer
+TXN1024,2026-05-21,Operations,EMP109,QuickCourier Express,23850.0,ACH
+TXN1025,2026-05-20,Sales,EMP120,Horizon Media Works,37000.0,ACH
+TXN1026,2026-04-17,Human Resources,EMP119,Horizon Media Works,22700.0,Bank Transfer
+TXN1027,2026-04-01,Finance,EMP102,Zenith Travel Partners,11850.0,Bank Transfer
+TXN1028,2026-03-04,IT,EMP105,CloudCore Systems,4850.0,Check
+TXN1029,2026-07-09,Legal,EMP123,Metro Facility Services,39450.0,Bank Transfer
+TXN1030,2026-06-22,Sales,EMP121,Delta Services,20821.81,Bank Transfer
+TXN1031,2026-06-26,IT,EMP105,Delta Services,35726.04,Bank Transfer
+TXN1032,2026-03-09,Marketing,EMP112,Horizon Media Works,22600.0,ACH
+TXN1033,2026-03-09,IT,EMP108,Horizon Media Works,6100.0,Wire Transfer
+TXN1034,2026-08-07,Finance,EMP101,Stellar Consulting,9300.0,Credit Card
+TXN1035,2026-08-14,Sales,EMP120,Global Logistics Corp,19311.74,ACH
+TXN1036,2026-07-24,Legal,EMP124,Delta Services,34239.8,Wire Transfer
+TXN1037,2026-06-23,Legal,EMP123,Stellar Consulting,15445.27,Wire Transfer
+TXN1038,2026-01-20,Human Resources,EMP118,ABC Supplies,28950.0,Wire Transfer
+TXN1039,2026-01-19,IT,EMP106,Apex Technology,29450.0,Credit Card
+TXN1040,2026-02-04,Marketing,EMP114,Zenith Travel Partners,3350.0,Wire Transfer
+TXN1041,2026-05-29,Human Resources,EMP119,Stellar Consulting,33000.0,ACH
+TXN1042,2026-04-16,Operations,EMP111,QuickCourier Express,15600.0,Bank Transfer
+TXN1043,2026-01-07,Legal,EMP125,Zenith Travel Partners,48300.0,Credit Card
+TXN1044,2026-05-14,Procurement,EMP115,CloudCore Systems,42900.62,ACH
+TXN1045,2026-03-18,Operations,EMP110,Horizon Media Works,34550.0,Wire Transfer
+TXN1046,2026-01-07,Procurement,EMP117,Apex Technology,45650.0,Bank Transfer
+TXN1047,2026-08-20,IT,EMP106,OfficeMart Solutions,14750.0,ACH
+TXN1048,2026-02-26,Procurement,EMP117,Metro Facility Services,13302.7,Bank Transfer
+TXN1049,2026-01-28,Sales,EMP121,ABC Supplies,1666.65,ACH
+TXN1050,2026-07-13,Legal,EMP125,Nexus Cyber Solutions,21600.0,Bank Transfer
+TXN1051,2026-08-19,Operations,EMP111,ABC Supplies,40750.0,Credit Card
+TXN1052,2026-02-06,Finance,EMP103,CloudCore Systems,43752.13,Bank Transfer
+TXN1053,2026-04-06,Marketing,EMP114,Stellar Consulting,32850.0,Wire Transfer
+TXN1054,2026-08-19,Sales,EMP122,Nexus Cyber Solutions,8764.01,Credit Card
+TXN1055,2026-07-28,Operations,EMP110,ABC Supplies,9929.95,Check
+TXN1056,2026-07-29,Marketing,EMP113,Global Logistics Corp,38500.0,Bank Transfer
+TXN1057,2026-08-12,Legal,EMP123,Stellar Consulting,39900.0,ACH
+TXN1058,2026-08-03,Marketing,EMP112,ABC Supplies,32500.0,ACH
+TXN1059,2026-08-14,IT,EMP107,CloudCore Systems,31650.0,Wire Transfer
+TXN1060,2026-03-30,Finance,EMP101,OfficeMart Solutions,9892.69,ACH
+TXN1061,2026-01-14,IT,EMP108,CloudCore Systems,35750.0,Wire Transfer
+TXN1062,2026-05-15,IT,EMP108,Zenith Travel Partners,10450.0,Check
+TXN1063,2026-01-05,Marketing,EMP113,Delta Services,4800.0,ACH
+TXN1064,2026-03-26,IT,EMP107,Horizon Media Works,16050.0,Check
+TXN1065,2026-07-02,Procurement,EMP117,Global Logistics Corp,10500.0,Check
+TXN1066,2026-07-15,Operations,EMP111,Zenith Travel Partners,15650.0,Bank Transfer
+TXN1067,2026-03-23,Procurement,EMP115,Delta Services,38450.0,ACH
+TXN1068,2026-05-04,Legal,EMP124,QuickCourier Express,11550.0,Credit Card
+TXN1069,2026-06-22,IT,EMP107,Horizon Media Works,32700.0,Bank Transfer
+TXN1070,2026-07-16,Marketing,EMP114,OfficeMart Solutions,12050.0,Bank Transfer
+TXN1071,2026-01-16,Marketing,EMP113,Zenith Travel Partners,41450.0,Check
+TXN1072,2026-08-19,Marketing,EMP114,Nexus Cyber Solutions,19550.0,Credit Card
+TXN1073,2026-06-30,Finance,EMP101,Delta Services,11785.53,Wire Transfer
+TXN1074,2026-05-27,Marketing,EMP112,Metro Facility Services,7750.0,Wire Transfer
+TXN1075,2026-05-28,Human Resources,EMP119,Zenith Travel Partners,39805.31,Check
+TXN1076,2026-08-05,Legal,EMP123,Nexus Cyber Solutions,42000.0,Credit Card
+TXN1077,2026-06-17,Procurement,EMP117,Metro Facility Services,30950.0,Bank Transfer
+TXN1078,2026-07-06,Procurement,EMP115,OfficeMart Solutions,17284.83,Bank Transfer
+TXN1079,2026-02-09,Operations,EMP109,Delta Services,34115.64,Bank Transfer
+TXN1080,2026-04-21,Sales,EMP121,Horizon Media Works,23400.0,Check
+TXN1081,2026-04-14,Finance,EMP104,Metro Facility Services,1800.0,Check
+TXN1082,2026-08-11,Sales,EMP122,Nexus Cyber Solutions,36027.8,Credit Card
+TXN1083,2026-03-02,Procurement,EMP116,Metro Facility Services,2850.0,Check
+TXN1084,2026-07-09,Operations,EMP110,Global Logistics Corp,47600.0,Check
+TXN1085,2026-06-05,Finance,EMP101,QuickCourier Express,21644.8,Credit Card
+TXN1086,2026-03-12,Sales,EMP121,Stellar Consulting,22850.0,Check
+TXN1087,2026-03-17,Sales,EMP121,Apex Technology,23604.42,Bank Transfer
+TXN1088,2026-03-03,IT,EMP105,ABC Supplies,46150.0,Bank Transfer
+TXN1089,2026-02-13,Marketing,EMP112,Metro Facility Services,32950.0,Credit Card
+TXN1090,2026-05-04,Procurement,EMP116,Global Logistics Corp,29976.96,Bank Transfer
+TXN1091,2026-07-23,Operations,EMP110,Apex Technology,28698.18,Wire Transfer
+TXN1092,2026-08-25,Sales,EMP121,Nexus Cyber Solutions,10800.0,Credit Card
+TXN1093,2026-07-02,Procurement,EMP117,Zenith Travel Partners,39359.81,Wire Transfer
+TXN1094,2026-07-24,Finance,EMP103,Horizon Media Works,21650.0,Wire Transfer
+TXN1095,2026-06-19,Human Resources,EMP118,Delta Services,40150.0,ACH
+TXN1096,2026-06-16,Legal,EMP125,Global Logistics Corp,21967.9,ACH
+TXN1097,2026-06-11,Legal,EMP124,Delta Services,40300.0,ACH
+TXN1098,2026-08-11,Marketing,EMP112,OfficeMart Solutions,42950.0,Check
+TXN1099,2026-06-10,Sales,EMP121,ABC Supplies,24750.0,Check
+TXN1100,2026-07-28,Procurement,EMP116,OfficeMart Solutions,42875.04,ACH
+TXN1101,2026-05-27,Finance,EMP102,Apex Technology,12850.0,Wire Transfer
+TXN1102,2026-06-30,Legal,EMP125,Nexus Cyber Solutions,24568.6,Bank Transfer
+TXN1103,2026-03-02,Sales,EMP122,Stellar Consulting,15900.0,Check
+TXN1104,2026-05-26,Human Resources,EMP119,Nexus Cyber Solutions,27350.0,Check
+TXN1105,2026-03-24,Procurement,EMP115,Apex Technology,35400.0,Wire Transfer
+TXN1106,2026-06-30,Operations,EMP109,Stellar Consulting,36200.0,Wire Transfer
+TXN1107,2026-05-19,Procurement,EMP115,Stellar Consulting,15400.0,ACH
+TXN1108,2026-01-08,Operations,EMP110,ABC Supplies,47300.0,Credit Card
+TXN1109,2026-06-17,Legal,EMP123,ABC Supplies,28500.0,Check
+TXN1110,2026-04-02,Operations,EMP109,OfficeMart Solutions,45750.0,Bank Transfer
+TXN1111,2026-04-17,Legal,EMP123,Zenith Travel Partners,31100.0,Credit Card
+TXN1112,2026-07-31,Procurement,EMP115,Stellar Consulting,7067.22,Wire Transfer
+TXN1113,2026-06-12,Marketing,EMP114,Delta Services,22650.0,Wire Transfer
+TXN1114,2026-04-24,Procurement,EMP117,Zenith Travel Partners,4330.82,Bank Transfer
+TXN1115,2026-02-27,Marketing,EMP113,QuickCourier Express,5300.0,Wire Transfer
+TXN1116,2026-01-05,Sales,EMP121,Nexus Cyber Solutions,29400.0,Credit Card
+TXN1117,2026-03-19,Procurement,EMP117,Metro Facility Services,4850.0,ACH
+TXN1118,2026-06-04,Marketing,EMP113,Apex Technology,27100.0,ACH
+TXN1119,2026-08-04,Operations,EMP109,ABC Supplies,9300.0,Wire Transfer
+TXN1120,2026-03-19,Legal,EMP123,Metro Facility Services,33850.0,ACH
+TXN1121,2026-05-13,Legal,EMP124,Apex Technology,29607.72,ACH
+TXN1122,2026-06-08,Procurement,EMP115,Apex Technology,12250.0,Wire Transfer
+TXN1123,2026-06-04,Finance,EMP103,Zenith Travel Partners,3390.89,Check
+TXN1124,2026-04-28,Procurement,EMP115,Zenith Travel Partners,21986.59,Bank Transfer
+TXN1125,2026-05-05,Human Resources,EMP119,CloudCore Systems,16600.0,Credit Card
+TXN1126,2026-03-30,Sales,EMP122,Metro Facility Services,15046.24,Wire Transfer
+TXN1127,2026-01-14,Legal,EMP123,CloudCore Systems,13350.0,Check
+TXN1128,2026-08-14,Finance,EMP104,Delta Services,4050.0,Wire Transfer
+TXN1129,2026-07-17,Legal,EMP125,Metro Facility Services,37200.0,Wire Transfer
+TXN1130,2026-03-19,Legal,EMP125,Metro Facility Services,7207.03,Wire Transfer
+TXN1131,2026-07-28,Marketing,EMP114,Global Logistics Corp,16100.0,Check
+TXN1132,2026-01-28,Marketing,EMP112,Metro Facility Services,46000.0,Credit Card
+TXN1133,2026-05-12,Procurement,EMP117,Nexus Cyber Solutions,14350.97,Check
+TXN1134,2026-05-01,Operations,EMP110,Stellar Consulting,44850.0,Credit Card
+TXN1135,2026-08-14,IT,EMP107,Delta Services,17474.14,ACH
+TXN1136,2026-08-03,Finance,EMP103,Nexus Cyber Solutions,15550.0,Check
+TXN1137,2026-08-14,Operations,EMP110,Horizon Media Works,24250.0,Wire Transfer
+TXN1138,2026-05-01,Human Resources,EMP118,Nexus Cyber Solutions,12700.0,Check
+TXN1139,2026-01-16,Human Resources,EMP119,Nexus Cyber Solutions,44450.0,Credit Card
+TXN1140,2026-05-11,Finance,EMP102,Horizon Media Works,46850.0,Bank Transfer
+TXN1141,2026-04-27,IT,EMP108,ABC Supplies,35450.0,Credit Card
+TXN1142,2026-05-05,Procurement,EMP116,Zenith Travel Partners,34050.0,ACH
+TXN1143,2026-08-11,Sales,EMP121,QuickCourier Express,35279.72,Wire Transfer
+TXN1144,2026-01-14,IT,EMP106,QuickCourier Express,33650.0,Credit Card
+TXN1145,2026-07-15,IT,EMP108,Apex Technology,37237.38,Bank Transfer
+TXN1146,2026-04-28,Operations,EMP111,OfficeMart Solutions,43950.0,Bank Transfer
+TXN1147,2026-04-06,Human Resources,EMP119,Global Logistics Corp,13000.0,Credit Card
+TXN1148,2026-02-17,Operations,EMP109,Zenith Travel Partners,42450.0,Credit Card
+TXN1149,2026-05-12,Operations,EMP109,Metro Facility Services,31500.0,Bank Transfer
+TXN1150,2026-07-29,Legal,EMP124,QuickCourier Express,27200.0,ACH
+TXN1151,2026-06-04,Procurement,EMP117,Delta Services,33950.0,ACH
+TXN1152,2026-02-24,Sales,EMP121,Apex Technology,12650.0,Wire Transfer
+TXN1153,2026-07-03,Procurement,EMP115,QuickCourier Express,20100.0,Bank Transfer
+TXN1154,2026-06-09,Legal,EMP124,Stellar Consulting,30050.0,Credit Card
+TXN1155,2026-06-12,Procurement,EMP117,Nexus Cyber Solutions,37550.0,Credit Card
+TXN1156,2026-01-29,Finance,EMP103,Metro Facility Services,3050.0,Credit Card
+TXN1157,2026-01-28,Procurement,EMP116,Nexus Cyber Solutions,21050.0,Wire Transfer
+TXN1158,2026-08-17,Human Resources,EMP119,Global Logistics Corp,13577.59,Check
+TXN1159,2026-07-30,Procurement,EMP117,CloudCore Systems,39300.0,Bank Transfer
+TXN1160,2026-02-10,Marketing,EMP114,Nexus Cyber Solutions,33200.0,Wire Transfer
+TXN1161,2026-04-08,IT,EMP108,ABC Supplies,13950.0,ACH
+TXN1162,2026-06-26,Procurement,EMP117,Delta Services,40153.61,Bank Transfer
+TXN1163,2026-06-26,Marketing,EMP113,ABC Supplies,30618.7,ACH
+TXN1164,2026-06-10,Marketing,EMP114,Apex Technology,31350.0,ACH
+TXN1165,2026-02-03,Operations,EMP109,ABC Supplies,15800.0,Bank Transfer
+TXN1166,2026-03-06,Operations,EMP110,Metro Facility Services,18937.54,Wire Transfer
+TXN1167,2026-04-22,Operations,EMP110,QuickCourier Express,6150.0,Check
+TXN1168,2026-03-17,Finance,EMP103,Stellar Consulting,22339.01,ACH
+TXN1169,2026-01-30,Human Resources,EMP119,ABC Supplies,20200.0,Bank Transfer
+TXN1170,2026-08-10,Legal,EMP123,QuickCourier Express,11450.0,Bank Transfer
+TXN1171,2026-03-31,Marketing,EMP112,Zenith Travel Partners,11144.66,Wire Transfer
+TXN1172,2026-02-27,Marketing,EMP112,CloudCore Systems,37895.32,Wire Transfer
+TXN1173,2026-01-05,Procurement,EMP115,Global Logistics Corp,26890.13,Bank Transfer
+TXN1174,2026-06-23,Finance,EMP102,ABC Supplies,18337.39,Wire Transfer
+TXN1175,2026-01-09,Operations,EMP110,ABC Supplies,7450.0,Bank Transfer
+TXN1176,2026-07-14,IT,EMP108,Metro Facility Services,38050.0,Bank Transfer
+TXN1177,2026-04-30,Marketing,EMP114,ABC Supplies,35680.42,Wire Transfer
+TXN1178,2026-03-23,Legal,EMP125,ABC Supplies,4350.0,Check
+TXN1179,2026-04-24,IT,EMP108,Nexus Cyber Solutions,44250.0,Bank Transfer
+TXN1180,2026-06-09,Operations,EMP109,Global Logistics Corp,14450.0,Wire Transfer
+TXN1181,2026-07-06,Human Resources,EMP119,Zenith Travel Partners,26450.0,Wire Transfer
+TXN1182,2026-01-30,IT,EMP106,Delta Services,22700.0,ACH
+TXN1183,2026-08-04,Legal,EMP124,Delta Services,35800.0,ACH
+TXN1184,2026-06-24,Procurement,EMP116,Global Logistics Corp,33800.0,Bank Transfer
+TXN1185,2026-08-05,IT,EMP105,Delta Services,6038.53,Credit Card
+TXN1186,2026-05-27,Finance,EMP103,QuickCourier Express,7250.0,Check
+TXN1187,2026-07-08,Finance,EMP103,Zenith Travel Partners,16200.0,Wire Transfer
+TXN1188,2026-02-13,Legal,EMP123,Apex Technology,17950.0,Bank Transfer
+TXN1189,2026-03-17,Marketing,EMP113,Horizon Media Works,47303.69,Wire Transfer
+TXN1190,2026-06-26,Finance,EMP103,ABC Supplies,9979.56,ACH
+TXN1191,2026-04-01,Human Resources,EMP118,Global Logistics Corp,42400.0,Check
+TXN1192,2026-01-22,Operations,EMP111,QuickCourier Express,47200.0,Wire Transfer
+TXN1193,2026-04-22,Legal,EMP124,Global Logistics Corp,18892.5,Wire Transfer
+TXN1194,2026-01-26,Finance,EMP102,Global Logistics Corp,36950.0,Bank Transfer
+TXN1195,2026-04-28,Sales,EMP121,Zenith Travel Partners,22300.0,Wire Transfer
+TXN1196,2026-02-03,Human Resources,EMP119,Apex Technology,14800.0,Check
+TXN1197,2026-05-19,Procurement,EMP115,Stellar Consulting,20100.0,Bank Transfer
+TXN1198,2026-02-26,Procurement,EMP115,Global Logistics Corp,37400.0,Bank Transfer
+TXN1199,2026-01-06,Legal,EMP125,Delta Services,9750.0,Credit Card
+TXN1200,2026-05-13,Human Resources,EMP118,Delta Services,42000.0,Bank Transfer
+TXN1201,2026-08-13,Human Resources,EMP119,Zenith Travel Partners,20500.0,ACH
+TXN1202,2026-02-03,Sales,EMP120,CloudCore Systems,9578.04,Check
+TXN1203,2026-08-05,Human Resources,EMP118,Delta Services,41200.0,Wire Transfer
+TXN1204,2026-04-17,IT,EMP108,OfficeMart Solutions,36550.0,Credit Card
+TXN1205,2026-05-15,IT,EMP106,CloudCore Systems,18001.69,Credit Card
+TXN1206,2026-03-06,IT,EMP106,OfficeMart Solutions,10750.0,Bank Transfer
+TXN1207,2026-02-19,Legal,EMP124,Zenith Travel Partners,37200.0,Wire Transfer
+TXN1208,2026-06-18,Human Resources,EMP119,Global Logistics Corp,22150.0,ACH
+TXN1209,2026-07-27,Procurement,EMP117,ABC Supplies,18050.0,Check
+TXN1210,2026-04-30,Finance,EMP101,CloudCore Systems,40600.0,Bank Transfer
+TXN1211,2026-06-11,Sales,EMP121,Zenith Travel Partners,27552.87,Bank Transfer
+TXN1212,2026-04-30,Marketing,EMP113,Zenith Travel Partners,23850.0,Bank Transfer
+TXN1213,2026-04-30,IT,EMP107,Nexus Cyber Solutions,5450.0,Bank Transfer
+TXN1214,2026-03-09,Legal,EMP124,Horizon Media Works,26050.0,ACH
+TXN1215,2026-03-18,Sales,EMP121,CloudCore Systems,33400.0,ACH
+TXN1216,2026-01-21,Human Resources,EMP118,Horizon Media Works,33400.0,Wire Transfer
+TXN1217,2026-02-12,Human Resources,EMP118,Zenith Travel Partners,32689.77,ACH
+TXN1218,2026-07-02,Sales,EMP120,Zenith Travel Partners,34800.0,Wire Transfer
+TXN1219,2026-06-18,Human Resources,EMP118,QuickCourier Express,34533.05,Wire Transfer
+TXN1220,2026-01-28,Sales,EMP122,CloudCore Systems,2350.0,Credit Card
+TXN1221,2026-04-02,Legal,EMP123,Stellar Consulting,48500.0,ACH
+TXN1222,2026-01-30,Finance,EMP103,Zenith Travel Partners,7650.0,Credit Card
+TXN1223,2026-02-20,Operations,EMP111,Metro Facility Services,3550.0,Credit Card
+TXN1224,2026-04-28,Procurement,EMP117,Metro Facility Services,12500.0,Check
+TXN1225,2026-08-24,Marketing,EMP113,QuickCourier Express,46015.12,Check
+TXN1226,2026-07-20,Procurement,EMP116,Horizon Media Works,26290.61,Credit Card
+TXN1227,2026-07-29,Operations,EMP110,ABC Supplies,31635.41,Wire Transfer
+TXN1228,2026-07-06,IT,EMP107,Apex Technology,37350.0,Wire Transfer
+TXN1229,2026-02-11,Sales,EMP120,Stellar Consulting,39885.05,Bank Transfer
+TXN1230,2026-04-21,Finance,EMP104,Horizon Media Works,19100.0,Bank Transfer
+TXN1231,2026-04-10,Marketing,EMP112,CloudCore Systems,45248.82,ACH
+TXN1232,2026-02-11,Operations,EMP109,OfficeMart Solutions,44600.0,Credit Card
+TXN1233,2026-05-05,Legal,EMP125,ABC Supplies,44100.0,Credit Card
+TXN1234,2026-08-06,Operations,EMP111,Nexus Cyber Solutions,30100.0,ACH
+TXN1235,2026-03-06,Procurement,EMP115,ABC Supplies,12700.0,Wire Transfer
+TXN1236,2026-01-21,IT,EMP108,Zenith Travel Partners,26700.0,Wire Transfer
+TXN1237,2026-07-07,Operations,EMP110,Delta Services,1550.0,Wire Transfer
+TXN1238,2026-04-21,Operations,EMP111,QuickCourier Express,5523.86,Bank Transfer
+TXN1239,2026-05-19,Finance,EMP104,Metro Facility Services,3550.0,ACH
+TXN1240,2026-03-10,Finance,EMP103,Apex Technology,17705.72,Bank Transfer
+TXN1241,2026-07-21,Human Resources,EMP118,ABC Supplies,18050.0,Credit Card
+TXN1242,2026-08-05,Legal,EMP125,Metro Facility Services,31191.58,Bank Transfer
+TXN1243,2026-07-07,Legal,EMP123,OfficeMart Solutions,10974.78,Bank Transfer
+TXN1244,2026-03-26,Procurement,EMP117,Delta Services,48000.0,ACH
+TXN1245,2026-01-14,Marketing,EMP113,CloudCore Systems,42000.0,ACH
+TXN1246,2026-02-05,Human Resources,EMP119,Delta Services,36435.46,Check
+TXN1247,2026-04-01,Operations,EMP110,Nexus Cyber Solutions,24883.6,Wire Transfer
+TXN1248,2026-07-29,IT,EMP108,Apex Technology,21738.54,Credit Card
+TXN1249,2026-06-23,Procurement,EMP116,Metro Facility Services,29800.0,Check
+TXN1250,2026-04-29,Finance,EMP103,Zenith Travel Partners,48400.0,Bank Transfer
+TXN1251,2026-06-25,Sales,EMP121,Horizon Media Works,39150.0,Bank Transfer
+TXN1252,2026-02-10,Legal,EMP123,Global Logistics Corp,4659.97,ACH
+TXN1253,2026-04-07,Sales,EMP122,ABC Supplies,29950.0,ACH
+TXN1254,2026-04-10,Legal,EMP123,Zenith Travel Partners,7950.0,ACH
+TXN1255,2026-03-17,Marketing,EMP112,ABC Supplies,36100.0,Check
+TXN1256,2026-05-28,IT,EMP107,OfficeMart Solutions,34600.0,Wire Transfer
+TXN1257,2026-03-19,Legal,EMP123,Apex Technology,7900.0,Credit Card
+TXN1258,2026-07-06,Legal,EMP123,QuickCourier Express,46975.38,ACH
+TXN1259,2026-01-21,Procurement,EMP116,Global Logistics Corp,34955.03,Credit Card
+TXN1260,2026-07-27,Human Resources,EMP118,Apex Technology,47801.23,Credit Card
+TXN1261,2026-05-11,Finance,EMP103,Horizon Media Works,28400.0,Wire Transfer
+TXN1262,2026-06-10,IT,EMP105,OfficeMart Solutions,20213.52,Check
+TXN1263,2026-05-19,Sales,EMP121,Zenith Travel Partners,4966.28,Bank Transfer
+TXN1264,2026-04-30,Legal,EMP125,Horizon Media Works,17692.19,Wire Transfer
+TXN1265,2026-06-17,Operations,EMP109,Delta Services,25134.6,Bank Transfer
+TXN1266,2026-02-13,Procurement,EMP115,Global Logistics Corp,16665.06,ACH
+TXN1267,2026-03-18,IT,EMP107,Stellar Consulting,31350.0,Credit Card
+TXN1268,2026-03-23,IT,EMP106,Zenith Travel Partners,45750.0,Wire Transfer
+TXN1269,2026-07-08,Human Resources,EMP118,ABC Supplies,5317.47,Wire Transfer
+TXN1270,2026-03-13,Marketing,EMP114,Delta Services,30550.0,Wire Transfer
+TXN1271,2026-03-20,Procurement,EMP116,Stellar Consulting,39300.0,ACH
+TXN1272,2026-05-01,IT,EMP105,Global Logistics Corp,22150.0,Credit Card
+TXN1273,2026-04-02,Operations,EMP110,Nexus Cyber Solutions,16507.87,ACH
+TXN1274,2026-04-17,Operations,EMP110,Horizon Media Works,27900.0,Check
+TXN1275,2026-02-05,Procurement,EMP116,Stellar Consulting,8100.0,Check
+TXN1276,2026-08-14,Sales,EMP120,Global Logistics Corp,39733.46,ACH
+TXN1277,2026-05-12,Legal,EMP124,OfficeMart Solutions,24900.0,Check
+TXN1278,2026-05-14,Legal,EMP123,Stellar Consulting,28900.0,ACH
+TXN1279,2026-05-11,Legal,EMP124,Horizon Media Works,1900.0,Credit Card
+TXN1280,2026-08-18,Procurement,EMP117,CloudCore Systems,37400.0,Check
+TXN1281,2026-05-28,Marketing,EMP113,Horizon Media Works,15050.0,Check
+TXN1282,2026-05-25,Procurement,EMP117,QuickCourier Express,30200.0,Bank Transfer
+TXN1283,2026-04-15,Human Resources,EMP119,Horizon Media Works,45630.58,Credit Card
+TXN1284,2026-06-08,Sales,EMP122,ABC Supplies,3650.0,ACH
+TXN1285,2026-07-29,Legal,EMP125,Metro Facility Services,8500.21,Credit Card
+TXN1286,2026-06-10,Human Resources,EMP118,Delta Services,48058.94,ACH
+TXN1287,2026-06-05,Human Resources,EMP119,Nexus Cyber Solutions,27950.0,Bank Transfer
+TXN1288,2026-04-09,Human Resources,EMP118,Delta Services,28934.0,Bank Transfer
+TXN1289,2026-05-06,Procurement,EMP117,Zenith Travel Partners,28648.82,Wire Transfer
+TXN1290,2026-05-07,Operations,EMP111,QuickCourier Express,35395.59,Check
+TXN1291,2026-02-11,Marketing,EMP112,Zenith Travel Partners,46050.0,Bank Transfer
+TXN1292,2026-04-27,Human Resources,EMP119,Global Logistics Corp,20900.0,Wire Transfer
+TXN1293,2026-07-22,Legal,EMP125,Nexus Cyber Solutions,4450.0,Credit Card
+TXN1294,2026-05-28,Human Resources,EMP119,Horizon Media Works,19210.76,Check
+TXN1295,2026-05-21,Human Resources,EMP119,QuickCourier Express,37783.52,ACH
+TXN1296,2026-06-10,Legal,EMP123,Stellar Consulting,14600.0,ACH
+TXN1297,2026-07-21,Procurement,EMP117,Stellar Consulting,33950.0,Check
+TXN1298,2026-05-28,Procurement,EMP116,Apex Technology,28450.0,Check
+TXN1299,2026-04-03,Operations,EMP110,ABC Supplies,15018.63,ACH
+TXN1300,2026-04-28,Procurement,EMP117,Metro Facility Services,11557.38,ACH
+TXN1301,2026-05-28,Procurement,EMP115,Apex Technology,30450.0,Credit Card
+TXN1302,2026-06-25,Marketing,EMP114,Stellar Consulting,3950.0,Check
+TXN1303,2026-01-30,Operations,EMP109,Horizon Media Works,47450.0,Check
+TXN1304,2026-05-07,Marketing,EMP113,CloudCore Systems,14900.0,Bank Transfer
+TXN1305,2026-03-05,Finance,EMP102,Delta Services,42950.0,Bank Transfer
+TXN1306,2026-08-07,Sales,EMP121,Global Logistics Corp,45520.61,ACH
+TXN1307,2026-08-17,Finance,EMP101,OfficeMart Solutions,28200.0,ACH
+TXN1308,2026-03-18,Legal,EMP125,Horizon Media Works,26142.97,Credit Card
+TXN1309,2026-08-10,Legal,EMP124,Stellar Consulting,39500.0,Check
+TXN1310,2026-06-19,Procurement,EMP117,Global Logistics Corp,2150.0,ACH
+TXN1311,2026-06-26,Marketing,EMP112,Zenith Travel Partners,41738.89,Check
+TXN1312,2026-01-27,Sales,EMP122,Apex Technology,10200.0,ACH
+TXN1313,2026-03-09,Finance,EMP103,Delta Services,12569.5,ACH
+TXN1314,2026-03-23,Finance,EMP103,QuickCourier Express,18400.0,Bank Transfer
+TXN1315,2026-05-04,Procurement,EMP115,Delta Services,33745.46,ACH
+TXN1316,2026-06-30,IT,EMP107,CloudCore Systems,30400.0,Credit Card
+TXN1317,2026-05-07,Operations,EMP110,Nexus Cyber Solutions,48000.0,Wire Transfer
+TXN1318,2026-05-05,Marketing,EMP112,QuickCourier Express,36972.76,Bank Transfer
+TXN1319,2026-05-19,Legal,EMP125,Nexus Cyber Solutions,18503.89,Bank Transfer
+TXN1320,2026-01-20,Marketing,EMP114,Horizon Media Works,8550.0,Wire Transfer
+TXN1321,2026-04-28,IT,EMP106,Nexus Cyber Solutions,28900.0,Wire Transfer
+TXN1322,2026-04-29,Finance,EMP104,Global Logistics Corp,25600.0,Bank Transfer
+TXN1323,2026-05-28,Legal,EMP125,OfficeMart Solutions,35500.0,Bank Transfer
+TXN1324,2026-07-14,Marketing,EMP114,Apex Technology,3650.0,Bank Transfer
+TXN1325,2026-01-20,IT,EMP108,ABC Supplies,15000.0,Credit Card
+TXN1326,2026-07-20,Sales,EMP121,Delta Services,22581.25,Check
+TXN1327,2026-06-23,Operations,EMP111,CloudCore Systems,7075.76,Check
+TXN1328,2026-05-20,Operations,EMP111,Stellar Consulting,40736.62,ACH
+TXN1329,2026-06-26,Sales,EMP122,Delta Services,40200.0,ACH
+TXN1330,2026-02-13,Procurement,EMP115,Nexus Cyber Solutions,37500.0,Check
+TXN1331,2026-06-11,Finance,EMP102,Stellar Consulting,4650.0,Check
+TXN1332,2026-06-26,Finance,EMP102,Nexus Cyber Solutions,3600.0,Wire Transfer
+TXN1333,2026-07-17,Finance,EMP102,Horizon Media Works,48200.0,Wire Transfer
+TXN1334,2026-03-27,Human Resources,EMP118,OfficeMart Solutions,42684.14,Wire Transfer
+TXN1335,2026-03-02,Sales,EMP121,OfficeMart Solutions,4365.01,Credit Card
+TXN1336,2026-04-24,Legal,EMP123,CloudCore Systems,45750.0,Wire Transfer
+TXN1337,2026-03-27,Sales,EMP121,Global Logistics Corp,15600.0,Wire Transfer
+TXN1338,2026-05-06,Marketing,EMP112,OfficeMart Solutions,41800.0,Check
+TXN1339,2026-01-19,Sales,EMP121,Horizon Media Works,26400.0,ACH
+TXN1340,2026-02-26,Human Resources,EMP118,Metro Facility Services,41300.0,Credit Card
+TXN1341,2026-06-26,Finance,EMP101,Stellar Consulting,39300.0,Wire Transfer
+TXN1342,2026-05-07,Marketing,EMP113,OfficeMart Solutions,46500.0,Credit Card
+TXN1343,2026-07-13,IT,EMP108,Stellar Consulting,34194.44,Check
+TXN1344,2026-05-26,Human Resources,EMP119,Delta Services,23400.0,ACH
+TXN1345,2026-03-12,Human Resources,EMP119,Metro Facility Services,6134.59,Check
+TXN1346,2026-08-07,Human Resources,EMP118,CloudCore Systems,16200.0,Credit Card
+TXN1347,2026-07-13,Operations,EMP109,OfficeMart Solutions,27500.0,Check
+TXN1348,2026-02-13,Marketing,EMP113,Stellar Consulting,19352.47,Check
+TXN1349,2026-05-25,Human Resources,EMP119,Metro Facility Services,46950.0,Check
+TXN1350,2026-02-17,Human Resources,EMP118,Global Logistics Corp,35350.0,Wire Transfer
+TXN1351,2026-06-18,Operations,EMP109,Apex Technology,187161.9,Wire Transfer
+TXN1352,2026-04-20,IT,EMP105,Stellar Consulting,53500.0,Bank Transfer
+TXN1353,2026-01-20,Operations,EMP110,Nexus Cyber Solutions,54000.0,Bank Transfer
+TXN1354,2026-01-08,Procurement,EMP117,CloudCore Systems,54451.39,ACH
+TXN1355,2026-04-27,IT,EMP105,Apex Technology,127000.0,ACH
+TXN1356,2026-05-19,Procurement,EMP116,Nexus Cyber Solutions,63299.75,Bank Transfer
+TXN1357,2026-05-29,IT,EMP107,Apex Technology,145484.21,Wire Transfer
+TXN1358,2026-01-28,Legal,EMP125,Nexus Cyber Solutions,60000.0,Wire Transfer
+TXN1359,2026-01-26,Legal,EMP125,CloudCore Systems,132917.5,Wire Transfer
+TXN1360,2026-08-24,Finance,EMP102,Stellar Consulting,180882.03,ACH
+TXN1361,2026-05-06,Finance,EMP103,Global Logistics Corp,132500.0,Bank Transfer
+TXN1362,2026-01-09,Operations,EMP109,Nexus Cyber Solutions,185000.0,ACH
+TXN1363,2026-03-09,Legal,EMP125,Global Logistics Corp,99437.37,Wire Transfer
+TXN1364,2026-07-26,Finance,EMP103,Apex Technology,66000.0,Wire Transfer
+TXN1365,2026-04-02,Operations,EMP111,Nexus Cyber Solutions,190500.0,ACH
+TXN1366,2026-03-16,Legal,EMP124,Stellar Consulting,102881.0,Bank Transfer
+TXN1367,2026-02-23,Legal,EMP123,Global Logistics Corp,94000.0,Wire Transfer
+TXN1368,2026-01-26,Legal,EMP125,Stellar Consulting,158000.0,Wire Transfer
+TXN1369,2026-01-28,Procurement,EMP116,CloudCore Systems,161000.0,Wire Transfer
+TXN1370,2026-02-23,Operations,EMP111,Global Logistics Corp,110500.0,Bank Transfer
+TXN1371,2026-05-26,Operations,EMP110,Nexus Cyber Solutions,54000.0,Wire Transfer
+TXN1372,2026-07-09,IT,EMP106,Nexus Cyber Solutions,76000.0,Bank Transfer
+TXN1373,2026-05-11,IT,EMP108,CloudCore Systems,112000.0,Wire Transfer
+TXN1374,2026-04-07,IT,EMP108,Global Logistics Corp,140000.0,Wire Transfer
+TXN1375,2026-03-23,Legal,EMP124,Global Logistics Corp,106324.26,Bank Transfer
+TXN1376,2026-03-31,Operations,EMP109,CloudCore Systems,97855.12,Wire Transfer
+TXN1377,2026-05-07,Legal,EMP124,CloudCore Systems,157087.03,ACH
+TXN1378,2026-07-24,Legal,EMP124,Nexus Cyber Solutions,104197.22,Wire Transfer
+TXN1379,2026-06-05,IT,EMP105,Nexus Cyber Solutions,187000.0,Bank Transfer
+TXN1380,2026-08-05,Legal,EMP125,Nexus Cyber Solutions,72000.0,Bank Transfer
+TXN1381,2026-06-22,Legal,EMP124,Apex Technology,116000.0,ACH
+TXN1382,2026-04-17,Legal,EMP125,Apex Technology,165000.0,ACH
+TXN1383,2026-06-08,Finance,EMP101,Stellar Consulting,146000.0,ACH
+TXN1384,2026-06-10,Legal,EMP124,Nexus Cyber Solutions,67000.0,Wire Transfer
+TXN1385,2026-05-15,Operations,EMP111,Global Logistics Corp,83500.0,Bank Transfer
+TXN1386,2026-08-22,Operations,EMP110,ABC Supplies,22900.0,Bank Transfer
+TXN1387,2026-02-28,Operations,EMP110,OfficeMart Solutions,16883.25,Wire Transfer
+TXN1388,2026-08-09,Human Resources,EMP119,Apex Technology,20953.5,ACH
+TXN1389,2026-02-07,Procurement,EMP115,Nexus Cyber Solutions,7125.65,Bank Transfer
+TXN1390,2026-03-22,Marketing,EMP114,Global Logistics Corp,25800.0,Check
+TXN1391,2026-08-02,Marketing,EMP113,QuickCourier Express,10094.54,Check
+TXN1392,2026-07-04,Finance,EMP102,Metro Facility Services,27500.0,Credit Card
+TXN1393,2026-04-11,Procurement,EMP117,Apex Technology,26910.49,Wire Transfer
+TXN1394,2026-03-29,Human Resources,EMP119,Stellar Consulting,21800.0,Check
+TXN1395,2026-05-30,Sales,EMP122,Delta Services,27300.0,Check
+TXN1396,2026-03-28,Procurement,EMP117,Zenith Travel Partners,5800.0,Bank Transfer
+TXN1397,2026-04-25,Procurement,EMP115,Global Logistics Corp,18200.0,Check
+TXN1398,2026-07-12,Operations,EMP111,Delta Services,20300.0,Wire Transfer
+TXN1399,2026-03-28,Operations,EMP110,OfficeMart Solutions,8200.0,Check
+TXN1400,2026-01-31,Human Resources,EMP118,Metro Facility Services,8043.69,Wire Transfer
+TXN1401,2026-08-22,Legal,EMP124,QuickCourier Express,23245.87,Check
+TXN1402,2026-08-15,Operations,EMP109,Zenith Travel Partners,3520.84,ACH
+TXN1403,2026-01-24,Procurement,EMP115,Horizon Media Works,14555.09,Wire Transfer
+TXN1404,2026-08-16,IT,EMP105,OfficeMart Solutions,35374.84,ACH
+TXN1405,2026-01-25,Legal,EMP125,Stellar Consulting,44600.0,Credit Card
+TXN1406,2026-05-23,Finance,EMP104,OfficeMart Solutions,17119.09,Check
+TXN1407,2026-03-01,Marketing,EMP112,Nexus Cyber Solutions,27400.0,Wire Transfer
+TXN1408,2026-07-18,Operations,EMP111,Global Logistics Corp,35791.55,Bank Transfer
+TXN1409,2026-06-13,Procurement,EMP117,Horizon Media Works,9406.55,ACH
+TXN1410,2026-05-17,Procurement,EMP117,QuickCourier Express,37100.0,Check
+TXN1411,2026-02-01,Procurement,EMP117,Global Logistics Corp,32200.0,Credit Card
+TXN1412,2026-05-31,Marketing,EMP114,Delta Services,23148.83,ACH
+TXN1413,2026-07-12,Sales,EMP121,Apex Technology,29319.27,Bank Transfer
+TXN1414,2026-07-05,Procurement,EMP117,CloudCore Systems,21700.0,Wire Transfer
+TXN1415,2026-01-10,IT,EMP108,QuickCourier Express,30600.0,Bank Transfer
+TXN1416,2026-07-04,Marketing,EMP113,Stellar Consulting,23400.0,ACH
+TXN1417,2026-06-07,Operations,EMP111,Metro Facility Services,35939.4,Bank Transfer
+TXN1418,2026-01-25,IT,EMP108,ABC Supplies,7517.35,Check
+TXN1419,2026-08-01,Finance,EMP104,Stellar Consulting,44815.71,ACH
+TXN1420,2026-03-21,Procurement,EMP115,QuickCourier Express,17600.0,Credit Card
+TXN1421,2026-01-31,Sales,EMP122,OfficeMart Solutions,33272.3,Check
+TXN1422,2026-02-15,IT,EMP105,Stellar Consulting,22600.0,Credit Card
+TXN1423,2026-07-25,Finance,EMP101,Nexus Cyber Solutions,73896.58,Bank Transfer
+TXN1424,2026-07-18,Operations,EMP110,Apex Technology,67592.08,Bank Transfer
+TXN1425,2026-02-22,IT,EMP107,CloudCore Systems,103454.39,Credit Card
+TXN1426,2026-02-14,Finance,EMP102,ABC Supplies,14500.0,Bank Transfer
+TXN1427,2026-02-14,Finance,EMP104,ABC Supplies,14500.0,Credit Card
+TXN1428,2026-03-10,IT,EMP106,Apex Technology,68000.0,Wire Transfer
+TXN1429,2026-03-10,IT,EMP106,Apex Technology,68000.0,Bank Transfer
+TXN1430,2026-04-05,Marketing,EMP113,OfficeMart Solutions,8950.0,Credit Card
+TXN1431,2026-04-05,Marketing,EMP114,OfficeMart Solutions,8950.0,Wire Transfer
+TXN1432,2026-04-22,Operations,EMP110,Global Logistics Corp,32400.0,ACH
+TXN1433,2026-04-22,Operations,EMP109,Global Logistics Corp,32400.0,Wire Transfer
+TXN1434,2026-04-22,Operations,EMP111,Global Logistics Corp,32400.0,Credit Card
+TXN1435,2026-05-18,IT,EMP105,CloudCore Systems,74000.0,Bank Transfer
+TXN1436,2026-05-18,IT,EMP108,CloudCore Systems,74000.0,ACH
+TXN1437,2026-06-02,Procurement,EMP116,Delta Services,19200.0,Check
+TXN1438,2026-06-02,Procurement,EMP117,Delta Services,19200.0,Credit Card
+TXN1439,2026-06-20,Sales,EMP121,Zenith Travel Partners,46800.0,Credit Card
+TXN1440,2026-06-20,Sales,EMP122,Zenith Travel Partners,46800.0,Credit Card
+TXN1441,2026-07-11,Marketing,EMP114,Horizon Media Works,28500.0,Bank Transfer
+TXN1442,2026-07-11,Marketing,EMP113,Horizon Media Works,28500.0,Wire Transfer
+TXN1443,2026-07-28,Operations,EMP109,Metro Facility Services,12300.0,ACH
+TXN1444,2026-07-28,Operations,EMP111,Metro Facility Services,12300.0,Check
+TXN1445,2026-08-08,IT,EMP107,Nexus Cyber Solutions,85000.0,Wire Transfer
+TXN1446,2026-08-08,IT,EMP106,Nexus Cyber Solutions,85000.0,Bank Transfer
+TXN1447,2026-08-18,Legal,EMP124,Stellar Consulting,92000.0,Wire Transfer
+TXN1448,2026-08-18,Legal,EMP123,Stellar Consulting,92000.0,Credit Card
+TXN1449,2026-08-18,Legal,EMP123,Stellar Consulting,92000.0,Wire Transfer
